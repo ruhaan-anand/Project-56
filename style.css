@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    text-shadow: 3px 3px 3px black;
+    color: white;
+}
+.img-inner{
+   height: 260px;
+    width: 500px;
+     margin-left: 125px;
+}
+img{
+    height: 250px;
+    width: 500px;
+}
+p{
+    color: white;
+    font-weight: bold;
+}
+section{
+    display: block;
+}
+.img{
+    display:flex;
+}
